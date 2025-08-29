@@ -68,7 +68,7 @@ ACCOUNTS = [
         "api_id": 28486483,
         "api_hash": "e3b71f6874229951ed5e406195cab4ad",
         "link": "https://t.me/+gOOcjDAnEIlhNGY6", 
-        "proxy_url": "socks5h://customer-kaminari_7YDmg-cc-de-city-berlin-sessid-0188753575-sesstime-30:RamiBabli15062007+@pr.oxylabs.io:7777"
+        "proxy_url": "socks5h://customer-kaminari_7YDmg-cc-de-city-frankfurt_am_main-sessid-0801840791-sesstime-30:RamiBabli15062007+@pr.oxylabs.io:7777"
     },
 ]
 
