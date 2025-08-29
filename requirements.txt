@@ -1,0 +1,3 @@
+telethon
+openai
+PySocks==1.7.1
