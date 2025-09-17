@@ -766,6 +766,7 @@ async def run_client(session_name, api_id, api_hash, link, proxy_url):
             # кликеры стартуют сразу
             tasks.append(asyncio.create_task(farm_ashqua_likes(client, session_name, gate)))
             tasks.append(asyncio.create_task(farm_bibinto_votes(client, session_name, gate)))
+            tasks.append(asyncio.create_task(farm_lover_likes(client, session_name, gate))) 
 
             # отложенный рескан — через 30 минут после запуска
             async def delayed_rescan():
